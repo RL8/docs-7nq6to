@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-pznxdj.prompt-gacha.com/sitemap.xml
